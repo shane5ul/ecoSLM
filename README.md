@@ -47,3 +47,8 @@ tau0Lin   = 0.12
 tau0Str   = 1.8e-3
 </code></pre>
 
+## Experimental Data
+
+Contains three subfolders for linear-linear (LL), star-linear (SL), and star-star (SS)
+
+Each subfolder contains folders corresponding to data from a particular source. The `header` file tags key features of the particular dataset including chemical species, temperature, citation to original paper containing the data, and some details of the systems such as molecular weights and weight fractions.
