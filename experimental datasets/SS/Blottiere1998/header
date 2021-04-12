@@ -1,0 +1,8 @@
+Ref	Blottiere B et al., Macromolecules 31:9295-9304, 1998
+Species	Star-star PI blend
+Temp	25 C
+MW_arm	28K/144K (Nen=5.385/27.69)
+
+units = Pa
+x1 = weight fraction of the high MW species	 [0, 0.2, 0.5, 0.8, 1.0] figure 2
+
