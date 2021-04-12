@@ -1,0 +1,20 @@
+Source:	Struglinski, M. J., Graessley, W. W. & Fetters, L. J. Effects of Polydispersity on the Linear Viscoelastic Properties of Entangled Polymers .3. Experimental Observations on Binary Mixtures of Linear and Star Polybutadienes. Macromolecules 21, 783–789 (1988).
+
+Polymer: PBd
+
+Blend: Star-Linear
+
+Temp: 25C: 
+
+MW:	S:42k, L:105k [star 127k - 3 arm stars = M_arm = 42.33k]
+
+The actual paper has data on Je, eta0 for a variety of molar masses [L:36.8k, 100k, 168k, S (arm):24.86k, 42.44k] and various blend fractions for all the mixtures.
+
+But **figure 1**, has G' and G" only for the S:42k L:105 sample phiS = 0.10, 0.20, 0.30, 0.50, 0.75 + pure components
+
+Original Data: dyne/cm^2 on Log10 scale
+** I need to convert the data to Pa and off of log scale **
+
+
+
+

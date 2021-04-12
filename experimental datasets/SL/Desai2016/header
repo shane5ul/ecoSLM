@@ -1,0 +1,15 @@
+Source: Desai, P. S., Kang, B.-G., Katzarova, M., Hall, R., Huang, Q., Lee, S., Shivokhin, M., Chang, T., Venerus, D. C., Mays, J., Schieber, J. D. & Larson, R. G. Challenging Tube and Slip-Link Models: Predicting the Linear Rheology of Blends of Well-Characterized Star and Linear 1,4-Polybutadienes. Macromolecules 49, 4964-4977 (2016).
+
+Polymer: 1,4-PBd (Mw/Mn ~ 1.03 for linear and 1.04 for star arm)
+
+Me: 1836 (Das) or 1650 (Park), 1815 (Fetters 1994)
+
+Blend Type: Star (4 arm) - Linear
+
+Molecular weights: S:24k, L:58k
+Blends: phi_S is star weight fraction
+phi_S = (0.0, 0.1, 0.2, 0.4, 0.6, 0.8, 1.0) saved as textfiles S000, S010, S020, S040, S060, S080, S100.
+
+Available in figure 5.
+
+Files are available as Gst*, containing both Gp and Gpp (2nd and 3rd columns)

@@ -1,0 +1,17 @@
+Source:	Shivokhin, M. E., van Ruymbeke, E., Bailly, C., Kouloumasis, D., Hadjichristidis, N. & Likhtman, A. E. Understanding Constraint Release in Star Linear Polymer Blends. Macromolecules 47, 2451–2463 (2014).
+
+Polymer: PBd
+
+Blend: Star-Linear
+
+Temp: 25C
+
+MW:	S:24.5, L:7.5k [star total 76k - 3 arm stars = M_arm = 24.5k] 
+
+Extracting from figure 4. phiS = .02, 0.10, 0.20, 0.50 + pure components
+
+The G' and G" data do have a common axis, but still keeping them separate.
+
+
+
+

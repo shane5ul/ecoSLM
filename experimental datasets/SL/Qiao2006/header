@@ -1,0 +1,16 @@
+Source:	Qiao, X., Sawada, T., Matsumiya, Y. & Watanabe, H. Constraint Release in Moderately Entangled
+Monodisperse Star Polyisoprene Systems. Macromolecules 39, 7333–7341 (2006).
+
+Polymer: PI
+Blend: Star-Linear [and Linear-Linear]
+
+Temp: 40C
+
+MW:	L:329k probe in 6-arm star matrix with M_arm = [9.5, 16, 23.5, 30.6, 40.7] kDa
+
+Extracting from figure 1. Linear Probe volume fraction = 0.01. [Figure 2 has LL blend with matrix MW [14.4, 21.4, 43.2, 83.8, 179] kDa.]
+
+L329, S9.5p, S9.5 etc. where "p" denotes pure star 9.5 (without linear probe)
+
+
+
