@@ -1,0 +1,12 @@
+Species:	Linear-Linear PS blend
+Temp:	130 C
+Ref: Nielsen, J. K., Rasmussen, H. K., Hassager, O. & McKinley, G. H. Elongational viscosity of monodisperse and bidisperse polystyrene melts. Journal of Rheology 50, 453–476 (2006).
+Units: kPa
+
+System: 
+
+Pure components: 51.7k (PDI 1.03), 102.8k (PDI 1.02), 200k (1.04) and blends
+
+Blend1: 51.7k (0.96)  mixed with 390k (0.04)
+Blend2: 51.7k (0.86)  mixed with 100k (0.14)
+Blend3: 102.8k (0.86) mixed with 100k (0.14)

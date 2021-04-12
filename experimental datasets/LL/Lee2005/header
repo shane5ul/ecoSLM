@@ -1,0 +1,10 @@
+Ref	Lee, J. H., L. J. Fetters, L. A. Archer, and A. F. Halasa. "Tube dynamics in binary polymer blends." Macromolecules, 38, 3917-3932 (2005).
+
+Species	Linear-Linear PBD blend
+
+Temp	28 C
+MWs		161K/25K [data in table 1]
+Units   Pa
+
+Gpx1, where x1 = index of longer MW
+

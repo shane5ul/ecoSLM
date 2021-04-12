@@ -1,0 +1,6 @@
+Species:	Linear-Linear PI blend
+Temp:	25 C
+Ref: Dietmar Auhl, 1 Pierre Chambon, 2 Tom C. B. McLeish, 3 and Daniel J. Read, 2009, Elongational Flow of Blends of Long and Short Polymers: Effective Stretch Relaxation Time:
+Units: Pa
+
+System: 2k-1000k LL blends. phiL is volume fraction of longer (1000k) linear. data available for phiL = (1.0, 0.4, 0.2, 0.1, 0.04, 0.01, 0]. These are named Gp100, Gp40, etc.

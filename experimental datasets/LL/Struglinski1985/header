@@ -1,0 +1,18 @@
+Ref:	Struglinski MJ, Graessley GG, Fetters L (1985), Macromolecules, 18:2630-2643
+
+Species: Linear-Linear PBD blend
+Temp	25 C
+
+Units: dyn/cm2
+
+Table 1 shows the linears 41k, 98k, 174k and 435k blended with each other in different proportions.
+
+Volume fraction of longer species
+
+174/41:
+fig2,3: 174/41 phiL = 1.0, (0.90), 0.70, 0.50, 0.30, 0.20, 0.10, (0.025) 0.0
+The bracketed are missing currently.
+
+435/41:
+fig1: G* for 435 fraction
+fig9: 435_31 on Gpp available [lin y-scale, log x-scale]
