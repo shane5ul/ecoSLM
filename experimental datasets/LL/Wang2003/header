@@ -1,0 +1,19 @@
+Ref: Wang, S., S.-Q. Wang, A. Halasa, and W.-L. Hsu. "Relaxation dynamics in mixtures of long and short chains: Tube dilation and impeded curvilinear diffusion." Macromolecules, 36, 5355–5371 (2003)
+
+Species: Linear-Linear PBD blend
+Temp:	40 C
+
+Units: Pa
+
+410K: Mn = 410800 (Mw/Mn = 1.01)
+100K: Mn =  98850 (Mw/Mn = 1.01)
+44K:  Mn =  43450 (Mw/Mn = 1.01)
+
+MWs	410K/44K (fig 6a,b) and 410K/100K (fig4)
+larger MW phiL = 1.0, 0.80, 0.60, 0.40, 0.20, 0.10, 0.05, 0.0
+
+Table 1 on 5361 has sample details, Figure 3(a/b) has pure component G*
+
+Tables 2 and 3 have viscosity, GN0 etc. of the individual samples and the blends.
+
+

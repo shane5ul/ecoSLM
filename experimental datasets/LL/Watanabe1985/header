@@ -1,0 +1,13 @@
+Species:	Linear-Linear PS blend
+Temp:	167 C
+Ref: Watanabe, H., Sakamoto, T. & Kotaka, T. Viscoelastic properties of binary blends of narrow molecular weight distribution polystyrenes. 2. Macromolecules 18, 1008–1015 (1985).
+
+Units: dyn/cm2
+
+System: L36 (Mw 38.9k, Mn 36.3k), L294 (Mw 316k, Mn 294k) [others also present L83 and L161; all blend data available]
+
+Considering the L36-L294 blend: Gp100 implies 100% L294 and Gp000 implies 0% L294
+
+
+
+
